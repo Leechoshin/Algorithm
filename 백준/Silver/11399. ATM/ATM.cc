@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-	int person, time, sum = 0,all=0,count = 0;
+	int person, time, sum = 0,count = 0;
 	vector<int> v;
 	cin >> person;
 	for (int i = 0; i < person; i++) {
